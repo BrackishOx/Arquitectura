@@ -1,4 +1,5 @@
 # Arquitectura
+Integrantes: camilo cometa,santiago cespedes,mateo arrubla
 Descripción del Proyecto
 El proyecto consiste en el desarrollo de una aplicación móvil que permite a los ciudadanos reportar incidentes de robo directamente a la Policía mediante un formulario automatizado. Además, visualiza en tiempo real un mapa interactivo que muestra las zonas afectadas y la ubicación de los CAIs móviles.
 
